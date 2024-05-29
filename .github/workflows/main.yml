@@ -20,7 +20,7 @@ jobs:
           distribution: 'adopt'
 
       - name: Set environment variables
-        run: echo "UPDATGAME=${{ secrets.UPDATGAME }}" echo "::set-env name=UPDATGAME::${{ secrets.UPDATGAME }}"
+        run: echo "UPDATGAME=${{ secrets.UPDATGAME }}"
 
       - name: Build with Gradle
         run: ./gradlew build
