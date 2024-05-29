@@ -19,9 +19,11 @@ jobs:
           java-version: '11'
 
       - name: Set environment variables
-        run: echo "UPDATGAME=${{ secrets.UPDATGAME }}" >> $GITHUB_ENV
+        run: |
+          echo "UPDATGAME=${{ secrets.UPDATGAME }}" >> $GITHUB_ENV
 
       - name: Build with Gradle
         run: ./gradlew build
+
 
 
