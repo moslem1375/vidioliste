@@ -19,9 +19,15 @@ jobs:
           java-version: '17.0.7'
           distribution: 'adopt'
 
+      - name: Give gradlew permission
+        run: chmod +x ./gradlew
+
+      - name: List files
+        run: ls -la
+
       - name: Set environment variables
         run: echo "UPDATGAME=${{ secrets.UPDATGAME }}"
 
       - name: Build with Gradle
-        run: ./gradlew
+        run: ./gradlew build
 
