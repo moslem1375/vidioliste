@@ -23,5 +23,5 @@ jobs:
         run: echo "UPDATGAME=${{ secrets.UPDATGAME }}"
 
       - name: Build with Gradle
-        run: .gradlew
+        run: ./gradlew
 
