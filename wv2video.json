@@ -1,22 +1,27 @@
-[
-    {
-        "titel": "تنظیمات بازی",
-        "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
-    },
-    {
-        "titel": "تنظیمات دستگسره",
-        "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
-    },
-    {
-        "titel": "تنظیمات شبیه ساز",
-        "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
-    },
-    {
-        "titel": "تنظیمات سختی",
-        "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
-    },
-    {
-        "titel": "تنظیمات دستگسره ها",
-        "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
-    }
-]
+{
+    "gameSettings": [
+        {
+            "titel": "تنظیمات بازی",
+            "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
+        },
+        {
+            "titel": "تنظیمات دستگسره",
+            "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
+        },
+        {
+            "titel": "تنظیمات شبیه ساز",
+            "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
+        }
+    ],
+    "contestTeasers": [
+        {
+            "titel": "تیلور ",
+            "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
+        },
+        {
+            "titel": "جان سینا ",
+            "uri": "https://s9.uupload.ir/files/moslem6211/VN۲۰۲۳۱۲۰۴_۰۰۵۶۳۰.mp4"
+        }
+    ]
+}
+
