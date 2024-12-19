@@ -1,17 +1,27 @@
 {
-    "gameSettings": [
-       
+    "gsufc": [
+        {
+            "titel": "تنظیمات دونفره بازی کردن",
+            "uri": "https://assets.myket.ir/aparat/videos/mrkn209"
+        },
         {
             "titel": "تنظیمات شبیه ساز",
             "uri": "https://my.uupload.ir/dl/NdX8nbVZ"
         }
     ],
-    "contestTeasers": [
-       
+    "gpufc": [
+        {
+            "titel": "efootball24_25 نسخه بازی ",
+            "uri": "https://assets.myket.ir/aparat/videos/behd777"
+        },
          {
-            "titel": "گیم پلی بازی",
-            "uri": "https://assets.myket.ir/aparat/videos/j49y561"
+            "titel": "FC25 نسخه بازی",
+            "uri": "https://assets.myket.ir/aparat/videos/pch521w"
+        },
+         {
+            "titel": "pes2025v2 نسخه بازی",
+            "uri": " https://ads.cdn.asset.aparat.com/cb/194b81caa58e2ff041f22d2e3d079b8561907272-720p.mp4"
         }
-        
+       
     ]
 }
